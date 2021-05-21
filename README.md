@@ -21,7 +21,7 @@
 - 👯 I’m collaborating with other developers and kids. 😂
 - 📬 How to reach me: <strong>kosta#1484</strong> 📞.
 - 💬 Ask me about anything!
-- ⚡ Fun fact: Never try to make me a <i>joke.</i> 🤡
+- ⚡ Fun fact: Never try to make me a <strong><i>fool</i></strong> 🤡.
 - <a href="https://www.youtube.com/watch?v=R8U2ElYYChs"> Click Here to learn more about me </a> 🗃️
 
 ### ____________________________________________________________________________________________________________________
