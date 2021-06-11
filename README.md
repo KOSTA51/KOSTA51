@@ -27,5 +27,15 @@
 ### ____________________________________________________________________________________________________________________
 <br>
 
+### FiveM Ban
+<img align="center" src="https://i.imgur.com/6tkFKWP.png" />
+<h1 align="center">🙄 Imagine if someone built <strong>anti-cheat</strong> for servers and banned from FiveM for cheating. </h1>
+<p align="center"><i>FiveM is shit, literally, any 9 yo kid can get offsets.<br>don't buy lua executors you easily can inject DLLs and build cheats.</i></p>
+
+### ____________________________________________________________________________________________________________________
+
+<br>
+
+
 # Most Used Languages.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSTA51&show_icons=true&hide_border=true&theme=radical)]()
