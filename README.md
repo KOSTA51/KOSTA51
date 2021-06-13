@@ -6,7 +6,7 @@
 </p>
  
  <p align="center">
-    <img align="center" alt="visitors" src="https://kostadev.xyz/counter/" />
+    <img align="center" alt="visitors" src="https://kostadev.xyz/counter/?v=10" />
 </p>
 
  <div align="center">
