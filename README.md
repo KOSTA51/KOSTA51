@@ -25,14 +25,6 @@
 - <a href="https://www.youtube.com/watch?v=R8U2ElYYChs"> Click Here to learn more about me </a> 🗃️
 
 ### ____________________________________________________________________________________________________________________
-<br>
-
-### FiveM Ban
-<img align="center" src="https://i.imgur.com/6tkFKWP.png" />
-<h1 align="center">🙄 Imagine if someone built <strong>anti-cheat</strong> for servers and banned from FiveM for cheating. </h1>
-<p align="center"><i>FiveM is sh*t, literally, any 9 yo kid can get offsets.<br>don't buy lua executors you easily can inject DLLs and build cheats.</i></p>
-
-### ____________________________________________________________________________________________________________________
 
 <br>
 
