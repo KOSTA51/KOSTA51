@@ -16,7 +16,6 @@
   ### ____________________________________________________________________________________________________________________
 
 ### I am a Developer
-- 🔭 I’m currently working on <strong>Dream Deathmatch</strong>💀.
 - 🌱 I’m currently learning <strong>Assembly & IT Cyber Security</strong> 🐱‍💻.
 - 👯 I’m collaborating with other developers and kids. 😂
 - 📬 How to reach me: <strong>kosta#6666</strong> 📞.
